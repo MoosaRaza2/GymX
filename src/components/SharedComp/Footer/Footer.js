@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="col-md-3">
                         <Link class="navbar-brand" to='/'>
                             <h3 className="logo">
-                                POWER <span>X</span>
+                                Gym<span>X</span>
                             </h3>
                         </Link>
                     </div>
@@ -46,7 +46,7 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className="col-md-3">
-                    <p className='footer-col'>Join Our Newsletter</p>
+                        <p className='footer-col'>Join Our Newsletter</p>
                         <p className='footer-row'>
                             Get exclusive news, features and updates from Th Shrdder Weight Loss Academy
                         </p>

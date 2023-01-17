@@ -9,7 +9,7 @@ const Nav = () => {
                 <div class="container-fluid ">
                     <Link class="navbar-brand" to='/'>
                         <h3 className="logo">
-                            POWER <span>X</span>
+                            Gym <span>X</span>
                         </h3>
                     </Link>
                     <button

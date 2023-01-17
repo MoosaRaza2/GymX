@@ -17,44 +17,44 @@ import image13 from '../Image_Icon/john-fornander-FIu48iuo_4g-unsplash.jpg';
 import image14 from '../Image_Icon/sven-mieke-Lx_GDv7VA9M-unsplash.jpg';
 
 export const genderSlot = [
-    {gender : 'Female'},
-    {gender : 'Male'},
-    {gender : 'Others'}
+    { gender: 'Female' },
+    { gender: 'Male' },
+    { gender: 'Others' }
 ]
 
 export const chooseUsData = [
     {
         title: 'FREE FITNESS TRAINING',
         image: image1,
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore architecto at harum obcaecati eos Cum esse eos doloribus.'
+        description: 'Unlock your full potential with our FREE fitness training! At our gym, we believe that everyone should have access to expert guidance and support to help them reach their fitness goals.'
     },
     {
         title: 'TONS OF CARDIO & STRENGTH',
         image: image2,
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore architecto at harum obcaecati eos Cum esse eos doloribus.'
+        description: 'Get in shape and reach your goals with TONS of cardio and strength options at our gym! We are equipped with state-of-the-art cardio machines like treadmills, ellipticals, stationary bikes, and more, to help you burn calories and improve cardiovascular health'
     },
     {
         title: 'NO COMMITMENT MEMBERSHIP',
         image: image3,
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore architecto at harum obcaecati eos Cum esse eos doloribus.'
+        description: 'Achieve your fitness goals with no commitment at our gym! Our flexible membership options allow you to join without being tied down to a long-term contract. We understand that life can be unpredictable and thats why we dont require our members to make a long- term commitment'
     },
 ]
 export const serviceTypeData = [
     {
         title: 'PROGRESSION',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia error quos sit fugiat aut dolor sit amet consectetur.',
+        description: 'At our gym, we believe in the power of progression. Whether youre a seasoned athlete or just starting out on your fitness journey, we understand that progress is key to achieving your goals',
         image: image44,
         imagebg: image4
     },
     {
         title: 'WORKOUT',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia error quos sit fugiat aut dolor sit amet consectetur.',
+        description: 'Our gym offers a wide variety of workout options to help you reach your fitness goals. Whether you are looking to build muscle, lose weight, or simply improve your overall health and wellness, we have something for everyone.',
         image: image55,
         imagebg: image5
     },
     {
         title: 'NUTRITION',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia error quos sit fugiat aut dolor sit amet consectetur.',
+        description: 'At our gym, we understand that nutrition plays a crucial role in achieving your fitness goals. Thats why we offer a variety of resources to help you make the most of your workout and fuel your body with the right nutrients.',
         image: image66,
         imagebg: image6
     },
@@ -94,7 +94,7 @@ export const classsData = [
     {
         id: 5,
         name: 'STRENGTH TRAINING',
-        image: image13 
+        image: image13
     },
     {
         id: 6,
